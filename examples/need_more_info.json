@@ -1,0 +1,5 @@
+json
+// File: examples/need_more_info.json
+{
+  "status": "need_more_info"
+}
