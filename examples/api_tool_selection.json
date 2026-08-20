@@ -1,0 +1,10 @@
+json
+// File: examples/api_tool_selection.json
+{
+  "plugin_id": 12,
+  "tool_name": "search_products",
+  "params": {
+    "query": "smart locks",
+    "limit": 10
+  }
+}
