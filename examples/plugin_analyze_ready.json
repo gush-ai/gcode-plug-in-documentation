@@ -1,0 +1,10 @@
+json
+// File: examples/plugin_analyze_ready.json
+{
+  "status": "ready",
+  "name": "My Store API",
+  "description": "Product and inventory API",
+  "base_url": ...
+  "auth_type": "bearer",
+  "tools": []
+}
