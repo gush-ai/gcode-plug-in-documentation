@@ -1,0 +1,12 @@
+json
+// File: examples/tool_definition.json
+{
+  "tool_name": "search_products",
+  "description": "Search products in the user's store",
+  "http_method": "GET",
+  "path_template": "/products/search",
+  "param_schema": {
+    "query": "string",
+    "limit": "integer"
+  }
+}
