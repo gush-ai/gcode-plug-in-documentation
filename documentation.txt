@@ -1,0 +1,21 @@
+The code is analyzed as information.
+
+It is never executed by the plugin analyzer.
+
+Documentation
+
+Users may provide:
+
+* API documentation
+* OpenAPI specification
+* Swagger documentation
+* Endpoint descriptions
+* Authentication documentation
+* Sample requests
+* Sample responses
+
+JSON Sample
+
+A sample response can help G-Codex understand the API structure.
+
+Example:
