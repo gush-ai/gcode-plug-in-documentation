@@ -1,0 +1,6 @@
+php
+// File: examples/forbidden_code.php
+eval($user_code);
+...
+require($user_uploaded_file);
+...
