@@ -1,0 +1,24 @@
+json
+// File: examples/json_sample.json
+{
+  "products": [
+    {
+      "id": 1001,
+      "name": "Smart Lock",
+      "price": 150000,
+      "stock": 12
+    }
+  ]
+}
+json
+// File: examples/json_sample.json
+{
+  "products": [
+    {
+      "id": 1001,
+      "name": "Smart Lock",
+      "price": 150000,
+      "stock": 12
+    }
+  ]
+}
