@@ -1,0 +1,6 @@
+json
+// File: examples/plugin_analyze_response.json
+{
+  "status": "need_more_info",
+  "question": "Please provide a sample response from the products endpoint."
+}
