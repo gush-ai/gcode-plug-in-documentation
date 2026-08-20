@@ -1,0 +1,11 @@
+json
+// File: examples/api_response.json
+{
+  "products": [
+    {
+      "name": "Smart Door Lock",
+      "price": 120000,
+      "stock": 8
+    }
+  ]
+}
