@@ -1,0 +1,15 @@
+json
+// File: examples/api_tool_catalog.json
+[
+  {
+    "plugin_id": 12,
+    "tool_name": "search_products",
+    "description": "Search products",
+    "http_method": "GET",
+    "path_template": "/products/search",
+    "param_schema": {
+      "query": "string",
+      "limit": "integer"
+    }
+  }
+]
